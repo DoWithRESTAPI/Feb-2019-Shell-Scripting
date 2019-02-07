@@ -1,0 +1,3 @@
+getting_command_line_variable_value.sh
+text.txt
+working_with_variables.sh
