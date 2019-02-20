@@ -1,0 +1,5 @@
+Tomcat_Url="http://mirrors.estointernet.in/apache/tomcat/tomcat-8/v8.5.38/bin/apache-tomcat-8.5.38.tar.gz"
+Jenkins_Url="http://mirrors.jenkins.io/war-stable/latest/jenkins.war"
+Install_Path="/home/ec2-user/jenkins_path"
+Default_Port=8080
+Alt_Port=8090
