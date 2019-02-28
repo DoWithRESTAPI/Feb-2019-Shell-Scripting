@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/bash -x
 
 
 read -p "Enter you system service name: " service_name

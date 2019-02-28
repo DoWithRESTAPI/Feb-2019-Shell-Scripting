@@ -1,2 +1,7 @@
-#!/bin/bash
-echo $db_home
+#!/bin/bash 
+echo $1
+
+echo "hi"
+
+
+echo "i am fine"
